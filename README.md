@@ -1,5 +1,5 @@
 # filetcpclient + compile and execute
-bare bones file tcp client using packed struct encoding and custom packets
+bare bones file tcp client using packed struct encoding and custom packets. works as a c compiler can't return errors for now
 
 to run
 
