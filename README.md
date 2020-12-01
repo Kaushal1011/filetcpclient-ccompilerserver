@@ -7,6 +7,11 @@ client side :
 ```
 gcc fileclient.c -Wall -o b
 ./b localhost 8893
+enter filename to send :
+program1.c
+...
+...
+Hello
 ```
 server side:
 ```
